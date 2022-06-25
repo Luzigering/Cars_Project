@@ -1,4 +1,4 @@
-<h1 align= center>Cars View</h1>
+<h1 align= center color= red>Cars View</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
